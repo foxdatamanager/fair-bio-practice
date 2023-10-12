@@ -106,7 +106,7 @@ In order to avoid data mismanagement and such unexplained discrepancies, it is i
   
 ## Why do we want to keep FAIR records?
 Focusing on FAIR this keeps our records Findable, Accessible, Interoperable/Intelligible as well as Re-usable. Accessibility that allows better reuse increases our citations and visibility in the field, digital record keeping increases the legibility of notes and provenance (tracking of dates and origins of work) allow for better reproducibility which we have discussed in the previous lesson. Additionally, greater accessibility affords accountability to the original creator of the work.
-We will now show you how easy it is to share records once they are online, and address some benefits that new repositories such as electronic lab notebooks (ELNs) or online protocols have. There are multiple repo's for ELNs and online protocols. We will discuss two free options that are easy to use: [Benchling](https://www.benchling.com/) and [procols.io](https://www.protocols.io/welcome) 
+We will now show you how easy it is to share records once they are online, and address some benefits that new repositories such as electronic lab notebooks (ELNs) or online protocols have. There are multiple repo's for ELNs and online protocols. We will discuss two free options that are easy to use: [Benchling](https://www.benchling.com/) and [protocols.io](https://www.protocols.io/welcome) 
 If you have not created accounts yet for both of them, please do so now as you will need them for the following exercises.
 
 ## How records become FAIR
