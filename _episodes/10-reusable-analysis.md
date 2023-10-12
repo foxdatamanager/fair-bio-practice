@@ -47,7 +47,7 @@ text to document their computational methods. A free and popular tool that is be
 used across disciplines is **the Jupyter notebook**.
 
 [Jupyter](www.jupyter.org) Notebooks are interactive web applications which allow you 
-to type and edit lines of code in the programming languages July (Ju), Python (Py), or R,
+to type and edit lines of code in the programming languages Julia (Ju), Python (Py), or R,
 hence it's name Jupyter, and view the output (e.g. graphs or calculations) immediately. 
 The huge benefit of such notebooks is that source code is mixed with documentation, thus
 explaining experimental setup, analysis, results of tables and plots throughout.
